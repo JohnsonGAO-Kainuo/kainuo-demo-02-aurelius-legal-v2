@@ -93,7 +93,7 @@ export default function Home() {
             </div>
             <div className="lg:w-1/2 relative">
                <div className="relative aspect-[4/5] border border-slate-700 p-4">
-                 <div className="relative h-full w-full grayscale hover:grayscale-0 transition-all duration-700">
+                 <div className="relative h-full w-full transition-all duration-700">
                    <Image 
                      src="https://images.unsplash.com/photo-1556761175-5973dc0f32e7?q=80&w=1932&auto=format&fit=crop" 
                      alt="Boardroom Meeting" 

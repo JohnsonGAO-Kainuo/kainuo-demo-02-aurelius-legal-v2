@@ -10,7 +10,7 @@ const AttorneyCard = ({ name, role, image, bio, education }: any) => (
         src={image} 
         alt={name} 
         fill 
-        className="object-cover grayscale hover:grayscale-0 transition-all duration-700" 
+        className="object-cover transition-all duration-700" 
       />
     </div>
     <div className="lg:w-2/3 flex flex-col justify-center">

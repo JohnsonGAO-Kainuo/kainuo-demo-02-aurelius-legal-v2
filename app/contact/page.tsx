@@ -79,7 +79,7 @@ export default function ContactPage() {
       </div>
 
       {/* Full Width Map */}
-      <div className="w-full h-[400px] grayscale invert hover:grayscale-0 hover:invert-0 transition-all duration-1000 border-t border-slate-800">
+      <div className="w-full h-[400px] border-t border-slate-800">
         <iframe 
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.2219901290355!2d-74.0086609845942!3d40.70562587933285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a171350e413%3A0x675865581e2894b6!2s123%20Wall%20St%2C%20New%20York%2C%20NY%2010005!5e0!3m2!1sen!2sus!4v1703660000000!5m2!1sen!2sus" 
           width="100%" 
